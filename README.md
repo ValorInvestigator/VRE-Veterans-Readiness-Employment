@@ -2,7 +2,7 @@
 
 ## Chapter 31, Title 38 United States Code
 
-**750+ KB across 14 research documents** covering every aspect of the VA's Veterans Readiness and Employment program — statutes, regulations, counselor manuals, OIG/GAO audits, ethics codes, intake procedures, and FOIA targets.
+**800+ KB across 15 research documents** covering every aspect of the VA's Veterans Readiness and Employment program — statutes, regulations, counselor manuals, OIG/GAO audits, ethics codes, intake procedures, and FOIA targets.
 
 Built by a veteran, for veterans. Because your VRC won't tell you everything — but the law will.
 

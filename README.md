@@ -2,7 +2,7 @@
 
 ## Chapter 31, Title 38 United States Code
 
-**514 KB across 9 research documents** covering every aspect of the VA's Veterans Readiness and Employment program.
+**670+ KB across 12 research documents** covering every aspect of the VA's Veterans Readiness and Employment program — statutes, regulations, counselor manuals, OIG/GAO audits, ethics codes, and FOIA targets.
 
 Built by a veteran, for veterans. Because your VRC won't tell you everything — but the law will.
 
@@ -21,6 +21,18 @@ Built by a veteran, for veterans. Because your VRC won't tell you everything —
 | 06 | [Policy Manual & Updates](06_POLICY_MANUAL_AND_UPDATES.md) | 927 | M28R/M28C, 2024-2026 legislation |
 | 07 | [Subsistence Allowance](07_SUBSISTENCE_ALLOWANCE.md) | 493 | FY2026 rates, payment mechanics, BAH election |
 | 08 | [Self-Employment & PI License](08_SELF_EMPLOYMENT_AND_PI.md) | 1,328 | Self-employment track, business plan, license funding |
+| 09 | [VRC Internal Materials & Manuals](09_VRC_INTERNAL_MATERIALS_AND_MANUALS.md) | ~900 | M28R/M28C manual chapters, 180+ URLs, counselor procedures |
+| 10 | [FOIA, OIG & GAO Reports](10_FOIA_OIG_GAO_REPORTS.md) | ~600 | 26 audit reports (1992-2026), FOIA targets, Congressional hearings |
+| 11 | [VRC Certification & Ethics](11_VRC_CERTIFICATION_AND_ETHICS.md) | 801 | CRC exam domains, CRCC ethics code, VA qualification standards |
+
+## Know What Your Counselor Is Supposed To Do
+
+- **CRCC Ethics Code Section A** — Counselors must empower clients to make their own decisions
+- **CRCC Ethics Code Section C** — Counselors MUST advocate at individual, group, and institutional levels
+- **GAO-20-28 (2019)** — VR&E plans vary by counselor with no mechanism to detect inconsistency
+- **VA OIG 23-00967-64 (2024)** — Counselors "generally unaware" of regulations, bypassed system controls
+- **M28R/M28C manuals** — Internal procedures your VRC follows (or should be following)
+- **Counselor caseload: 240+ cases each** — they're overwhelmed, which is why you need to advocate for yourself
 
 ## Key Regulations Every Veteran Should Know
 

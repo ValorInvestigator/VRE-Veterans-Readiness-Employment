@@ -910,7 +910,7 @@ For reference if pursuing the self-employment track for a PI business:
 # RESEARCH NOTES
 
 **Date of Research:** February 23, 2026
-**Researcher:** Claude (Opus 4.6) at request of Levi Bakke
+**Researcher:** Claude (Opus 4.6) for Valor Investigations
 **Methodology:** Web search across va.gov, congress.gov, gao.gov, va.gov/oig, federalregister.gov, veteran advocacy sites, and veteran community forums. PDF and web page content extraction where accessible.
 
 **Limitations:**

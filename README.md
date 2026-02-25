@@ -2,7 +2,7 @@
 
 ## Chapter 31, Title 38 United States Code
 
-**800+ KB across 15 research documents** covering every aspect of the VA's Veterans Readiness and Employment program — statutes, regulations, counselor manuals, OIG/GAO audits, ethics codes, intake procedures, and FOIA targets.
+**800+ KB across 16 research documents** covering every aspect of the VA's Veterans Readiness and Employment program — statutes, regulations, counselor manuals, OIG/GAO audits, ethics codes, intake procedures, and FOIA targets.
 
 Built by a veteran, for veterans. Because your VRC won't tell you everything — but the law will.
 
@@ -24,11 +24,16 @@ Built by a veteran, for veterans. Because your VRC won't tell you everything —
 | 09 | [VRC Internal Materials & Manuals](09_VRC_INTERNAL_MATERIALS_AND_MANUALS.md) | M28R/M28C manual chapters, 180+ URLs, counselor procedures |
 | 10 | [FOIA, OIG & GAO Reports](10_FOIA_OIG_GAO_REPORTS.md) | 26 audit reports (1992-2026), FOIA targets, Congressional hearings |
 | 11 | [VRC Certification & Ethics](11_VRC_CERTIFICATION_AND_ETHICS.md) | CRC exam domains, CRCC ethics code, VA qualification standards |
-| 12 | [**VRC Intake Procedures**](12_VRC_INTAKE_PROCEDURES.md) | **NEW** — What the counselor is supposed to do from THEIR side of the desk |
-| 13 | [**Your First Intake Meeting**](13_FIRST_INTAKE_MEETING_OUTLINE.md) | **NEW** — Step-by-step outline of how the meeting should go |
-| — | [Track 4 Case Brief — Bakke](TRACK_4_CASE_BRIEF_BAKKE.md) | Real-world Track 4 case study (PI license) |
+| 12 | [VRC Intake Procedures](12_VRC_INTAKE_PROCEDURES.md) | What the counselor is supposed to do from THEIR side of the desk |
+| 13 | [Your First Intake Meeting](13_FIRST_INTAKE_MEETING_OUTLINE.md) | Step-by-step outline of how the meeting should go |
+| 14 | [CFE Market Feasibility](14_CFE_MARKET_FEASIBILITY_ANALYSIS.md) | Labor market analysis for fraud examination careers |
+| 15 | [**Real-World Case Study**](15_REAL_WORLD_CASE_STUDY.md) | **NEW** — A real 19-minute intake: what went wrong, why preparation wins |
 
-## New: Know Exactly What Should Happen at Your Appointment
+## New: Real-World Case Study
+
+**[File 15 — Real-World Case Study](15_REAL_WORLD_CASE_STUDY.md)** — What a real VR&E intake evaluation looks like when the VRC has already made up their mind. A 19-minute meeting, a feasibility denial that doesn't meet the regulatory standard, and why the preparation is what wins — not the meeting itself. Includes the exact phrases to use, the errors the VRC made, and why the appeal is strong.
+
+## Know Exactly What Should Happen at Your Appointment
 
 **[File 12 — VRC Intake Procedures](12_VRC_INTAKE_PROCEDURES.md)** is the counselor's side of the desk — what they're required to do, how they're supposed to act, what forms they fill out, and what goes wrong when they don't follow procedures. Sourced from 38 CFR, M28R/M28C manuals, VA OIG reports, and Congressional testimony.
 
